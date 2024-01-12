@@ -1,0 +1,19 @@
+webApiCohortId,cohortId,cohortName
+2695,2695,[JJH] DRN_AF with statin_main(6month)
+2696,2696,[JJH] DRN_AF without statin_main(6month)
+1571,1571,[JJH] DRN_systemic embolism
+1568,1568,[JJH] DRN_TIA
+1569,1569,[JJH] DRN_Hemorrhagic stroke (I60-62)
+1567,1567,[JJH] DRN_total stroke (I60-64)
+1570,1570,[JJH] DRN_Ischemic stroke (I63)
+1566,1566,[JJH] DRN_composite outcomes of stroke
+2697,2697,[JJH] DRN_AF without statin_sub(6month)
+2639,2639,[JJH] DRN_AF with statin_main(6month)_eldery
+2640,2640,[JJH] DRN_AF without statin_main(6month)_elderly
+2641,2641,[JJH] DRN_AF without statin_sub(6month)_elderly
+2632,2632,[JJH] DRN_AF with statin_main(12month)
+2633,2633,[JJH] DRN_AF without statin_main(12month)
+2638,2638,[JJH] DRN_AF without statin_sub(12month)
+2642,2642,[JJH] DRN_AF with statin_main(12month)_elderly
+2643,2643,[JJH] DRN_AF without statin_main(12month)_elderly
+2644,2644,[JJH] DRN_AF without statin_sub(12month)_elderly
